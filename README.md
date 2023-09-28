@@ -1,7 +1,7 @@
 # Introduction
 
 **NoBug** is a cross-platform and customizable bug-tracking system written in Java.
-The project is meant for us to gain experiences with software engineering practices, Java, JavaFX, SceneBuilder, and GitHub.
+The project is meant for us to gain experience with software engineering practices such as Java, JavaFX, SceneBuilder, and GitHub.
 
 ![Login Page Screenshot](https://github.com/ThisIsBaoK/nobug/blob/master/images/login-page.png)
 
